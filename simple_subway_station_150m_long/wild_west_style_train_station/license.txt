@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wild West style train station
+* source:	https://sketchfab.com/3d-models/wild-west-style-train-station-a435f0040c3e4a19bac3d07c90507585
+* author:	A9908244 (https://sketchfab.com/A9908244)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wild West style train station" (https://sketchfab.com/3d-models/wild-west-style-train-station-a435f0040c3e4a19bac3d07c90507585) by A9908244 (https://sketchfab.com/A9908244) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

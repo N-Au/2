@@ -1,0 +1,11 @@
+Model Information:
+* title:	simple subway station 150m long
+* source:	https://sketchfab.com/3d-models/simple-subway-station-150m-long-157c1ad946b44b08800d77e669148c7a
+* author:	fory (https://sketchfab.com/artemrk2005)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "simple subway station 150m long" (https://sketchfab.com/3d-models/simple-subway-station-150m-long-157c1ad946b44b08800d77e669148c7a) by fory (https://sketchfab.com/artemrk2005) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

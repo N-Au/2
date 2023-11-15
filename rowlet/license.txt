@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rowlet
+* source:	https://sketchfab.com/3d-models/rowlet-4cb5ae6644f4486b9290c838a2d645ad
+* author:	virtualturtle (https://sketchfab.com/virtualturtle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rowlet" (https://sketchfab.com/3d-models/rowlet-4cb5ae6644f4486b9290c838a2d645ad) by virtualturtle (https://sketchfab.com/virtualturtle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

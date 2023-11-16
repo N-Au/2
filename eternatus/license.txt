@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eternatus
+* source:	https://sketchfab.com/3d-models/eternatus-700d5fbbab114ada8cafe842d5ed2ad2
+* author:	LunaEagle (https://sketchfab.com/LunaEagle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eternatus" (https://sketchfab.com/3d-models/eternatus-700d5fbbab114ada8cafe842d5ed2ad2) by LunaEagle (https://sketchfab.com/LunaEagle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
